@@ -7,4 +7,6 @@ By: Jared Adler
 > This project pulls earthquake data from (http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) where information is updated every 5 minutes.
 > It uses GeoJSON data and the Leaflet JavaScript Library to visualize where, when, and how large each earthquake that has occured was, in real time. 
 
+Preview: 
 
+[Earthquake Tracker](Earthquake_Tracker.png)
