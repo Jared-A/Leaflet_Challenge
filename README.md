@@ -9,4 +9,4 @@ By: Jared Adler
 
 Preview: 
 
-[Earthquake Tracker](Earthquake_Tracker.png)
+![Earthquake Tracker](Earthquake_Tracker.png)
